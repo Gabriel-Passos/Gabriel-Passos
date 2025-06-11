@@ -9,41 +9,32 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎯 Buscando oportunidades para atuar como **Fullstack Developer**
-- 💡 Atualmente trabalho com **ReactJS**, **React Native** e **NextJS**
-- 💻 Foco em aplicações performáticas, escaláveis e com ótima experiência do usuário
-- 🚀 Apaixonado por aprender novas tecnologias e boas práticas de código
-- 📚 Estudando back-end com **Java** e **Spring Boot**
+🎯 Desenvolvedor front-end focado em interfaces modernas, acessíveis e performáticas.  
+🧱 Trabalho com React, Next.js, React Native e TypeScript no dia a dia.  
+⚙️ Tenho conhecimento sólido em Tailwind, Material UI, REST e GraphQL.  
+🚀 Estou me preparando para atuar como **fullstack**, estudando **[Java](https://www.java.com/pt-BR/)** e **[Spring Boot](https://spring.io/projects/spring-boot/)**.  
+💡 Busco desafios reais para aplicar arquitetura, boas práticas e pensamento de produto.
 
 ---
 
 ## ⚙️ Tecnologias & Ferramentas
 
-![NextJS](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
-![REST API](https://img.shields.io/badge/-REST%20API-cccccc?style=flat&logo=rest)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38bdf8?style=flat&logo=tailwind-css)
-![Material UI](https://img.shields.io/badge/-Material--UI-007FFF?style=flat&logo=mui)
+<a href="https://skillicons.dev" >
+  <img src="https://skillicons.dev/icons?i=git,vscode,java,spring,javascript,typescript,css,html,react,next,tailwind,sass,figma,github,materialui,postman,styledcomponents,vercel,vite,bootstrap,discord,linkedin" />
+</a>
 
 ---
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-Gabriel%20Passos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ghpassos/)
+[![LinkedIn](https://img.shields.io/badge/-Gabriel%20Passos-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghpassos/)
 [![Gmail](https://img.shields.io/badge/-ghpassos.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ghpassos.dev@gmail.com)
 
 ---
 
 ## 📈 Estatísticas GitHub
 
-<div align="center">
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Passos&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Passos&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</div>
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
