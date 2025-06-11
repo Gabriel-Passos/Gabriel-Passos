@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Gabriel Passos 👋</h1>
+![Image](https://github.com/user-attachments/assets/4bc09c54-4e4d-4858-a162-bbd3f0bf2d81)
 
 <p align="center">
   Desenvolvedor Front-end focado em criar experiências modernas e intuitivas com ReactJS, NextJS e React Native. <br/>
@@ -19,16 +19,14 @@
 
 ## ⚙️ Tecnologias & Ferramentas
 
-<a href="https://skillicons.dev" >
-  <img src="https://skillicons.dev/icons?i=git,vscode,java,spring,javascript,typescript,css,html,react,next,tailwind,sass,figma,github,materialui,postman,styledcomponents,vercel,vite,bootstrap,discord,linkedin" />
-</a>
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,java,spring,javascript,typescript,css,html,react,graphql,next,tailwind,sass,notion,figma,github,materialui,postman,npm,styledcomponents,vercel,vite,bootstrap,discord,linkedin&perline=20)](https://skillicons.dev)
 
 ---
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-Gabriel%20Passos-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghpassos/)
-[![Gmail](https://img.shields.io/badge/-ghpassos.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ghpassos.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Gabriel%20Passos-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghpassos/)
+[![Gmail](https://img.shields.io/badge/-contao.gabrielhp@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ghpassos.dev@gmail.com)
 
 ---
 
