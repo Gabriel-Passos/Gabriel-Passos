@@ -1,39 +1,39 @@
 ![Image](https://github.com/user-attachments/assets/4bc09c54-4e4d-4858-a162-bbd3f0bf2d81)
 
 <p align="center">
-  Desenvolvedor Front-end focado em criar experiências modernas e intuitivas com ReactJS, NextJS e React Native. <br/>
-  Em transição para atuar como Desenvolvedor Fullstack 🚀
+    Front-end Developer focused on creating modern and intuitive experiences using ReactJS, NextJS, and React Native. <br /> 
+    Currently transitioning to a Fullstack Developer role 🚀
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-🎯 Desenvolvedor front-end focado em interfaces modernas, acessíveis e performáticas.  
-🧱 Trabalho com React, Next.js, React Native e TypeScript no dia a dia.  
-⚙️ Tenho conhecimento sólido em Tailwind, Material UI, REST e GraphQL.  
-🚀 Estou me preparando para atuar como **fullstack**, estudando **[Java](https://www.java.com/pt-BR/)** e **[Spring Boot](https://spring.io/projects/spring-boot/)**.  
-💡 Busco desafios reais para aplicar arquitetura, boas práticas e pensamento de produto.
+🎯 Front-end developer focused on building modern, accessible, and high-performance interfaces. <br /> 
+🧱 I work daily with React, Next.js, React Native, and TypeScript.  <br /> 
+⚙️ I have solid knowledge of Tailwind, Material UI, REST, and GraphQL.  <br /> 
+🚀 I'm preparing to work as a fullstack developer, studying Java and Spring Boot.  <br /> 
+💡 I'm looking for real-world challenges to apply architecture, best practices, and product thinking. <br /> 
 
 ---
 
-## ⚙️ Tecnologias & Ferramentas
+## ⚙️ Technologies & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,java,spring,javascript,typescript,css,html,react,graphql,next,tailwind,sass,notion,figma,github,materialui,postman,npm,styledcomponents,vercel,vite,bootstrap,discord,linkedin&perline=20)](https://skillicons.dev)
 
 ---
 
-## 📫 Como me encontrar
+## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/-Gabriel%20Passos-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghpassos/)
-[![Gmail](https://img.shields.io/badge/-contao.gabrielhp@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ghpassos.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-💼%20LinkedIn:%20Gabriel%20Passos-blue?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/ghpassos/)
+[![Gmail](https://img.shields.io/badge/-📧%20Email:%20contao.gabrielhp@gmail.com-c14438?style=for-the-badge&logoColor=white)](mailto:contato.gabrielhp@gmail.com)
 
 ---
 
-## 📈 Estatísticas GitHub
+## 📈 GitHub Stats
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
-<p align="center">✨ Sempre em busca de evoluir como desenvolvedor e como pessoa. Vamo que vamo! 🚀</p>
+<p align="center">✨ Always striving to grow — both as a developer and as a person. Let’s go! 🚀</p>
