@@ -10,7 +10,7 @@
 ---
 
 ## ⚙️ Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,java,spring,javascript,typescript,css,html,react,graphql,next,tailwind,docker,prisma,nestjs,sass,notion,figma,github,postgres,materialui,postman,npm,styledcomponents,vercel,vite,bootstrap,discord,linkedin&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,java,spring,javascript,typescript,css,html,react,vue,graphql,next,tailwind,docker,prisma,nestjs,sass,notion,figma,github,postgres,materialui,postman,npm,styledcomponents,vercel,vite,bootstrap,discord,linkedin&perline=20)](https://skillicons.dev)
 
 ---
 
