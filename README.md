@@ -20,9 +20,4 @@
 
 ---
 
-## 📈 GitHub Stats
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-
----
-
 <p align="center">✨ Always striving to grow — both as a developer and as a person. Let's go! 🚀</p>
