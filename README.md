@@ -16,7 +16,7 @@
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-💼%20LinkedIn:%20Gabriel%20Passos-blue?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/ghpassos/)
-[![Gmail](https://img.shields.io/badge/-📧%20Email:%20contato.gabrielhp@gmail.com-c14438?style=for-the-badge&logoColor=white)](mailto:contato.gabrielhp@gmail.com)
+[![Gmail](https://img.shields.io/badge/-📧%20Email:%20dev.ghpassos@gmail.com-c14438?style=for-the-badge&logoColor=white)](mailto:dev.ghpassos@gmail.com)
 
 ---
 
